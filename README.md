@@ -1,3 +1,3 @@
 # INF-510: Computational Numerical Methods
-## Monograph: Fire spread simulation using liner reaction-convection-diffusion equation
+## Monograph: Fire spread model based on Linear Reaction-Convection-Diffusion Equation
 #### Daniel San Martin
